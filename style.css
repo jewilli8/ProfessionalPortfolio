@@ -1,0 +1,41 @@
+ .navBar{
+    background-color:rgba(49,52,61,255);
+    display: flex;
+   justify-content:space-between;
+   align-items: center;
+   padding-right: 30px;
+      
+}
+
+h1 {
+  
+    background-color: #92cccd;
+    padding: 5px 20px;
+}
+
+a{
+    text-decoration: underline;
+    color: #92cccd;
+    padding-left: 5px;
+    cursor: grab;
+
+
+}
+#divider{
+    height:150px;
+    display:flex;
+    background-image: url("/assets/divbanner.png");
+    background-size:cover;
+    justify-content: flex-end;
+    padding-right:30px;
+}
+h2 {
+  
+    background-color: #92cccd;
+    padding: 5px 20px;
+    align-self:center;
+    
+}
+
+
+    
