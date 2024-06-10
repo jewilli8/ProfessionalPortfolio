@@ -36,6 +36,32 @@ h2 {
     align-self:center;
     
 }
-
-
+main{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     
+}
+
+.contentDiv{
+    width:70%;
+    border-left: 3px solid #445875;
+    
+    
+}
+
+.sectionHeader{
+    width:30%;
+    font-size: 3em;
+    font-weight: 500;
+    color: #445875;
+   
+   
+
+}
+
+#Contact{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+} 
